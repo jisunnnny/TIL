@@ -4,14 +4,14 @@
 오늘 배운 것을 기록합니다 ✨
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [02 - 배열과 객체의 성능 평가(Big O)](Best-Javascript-Data-Structures/02-Analyzing-Performance-of-Arrays-and-Objects.md) - Mon Nov 28 19:48:58 2022 +0900
 - [01 - 빅오(Big O)](Best-Javascript-Data-Structures/01-Big-O.md) - Mon Nov 28 19:46:30 2022 +0900
-- [완전 탐색, 브루트 포스(Brute Force)](Algorithm/Brute-Force.md) - Fri Nov 25 22:31:00 2022 +0900
 
 ### Categories
 
@@ -24,6 +24,7 @@ _4 TILs and counting..._
 
 ### [Best-Javascript-Data-Structures](#Best-Javascript-Data-Structures)
 - [01 - 빅오(Big O)](Best-Javascript-Data-Structures/01-Big-O.md)
+- [02 - 배열과 객체의 성능 평가(Big O)](Best-Javascript-Data-Structures/02-Analyzing-Performance-of-Arrays-and-Objects.md)
 
 ### [JavaScript](#JavaScript)
 - [RegExp](JavaScript/RegExp.md)
