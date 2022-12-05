@@ -4,7 +4,7 @@
 오늘 배운 것을 기록합니다 ✨
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _7 TILs and counting..._
 - [02 - 배열과 객체의 성능 평가(Big O)](Best-Javascript-Data-Structures/02-Analyzing-Performance-of-Arrays-and-Objects.md)
 - [03 - 문제 해결 접근법](Best-Javascript-Data-Structures/03-Problem-Solving-Approach.md)
 - [04 - 문제해결을 위한 패턴 익히기](Best-Javascript-Data-Structures/04-Problem-Solving-Patterns.md)
+- [05 - 재귀 함수](Best-Javascript-Data-Structures/05-Recursion.md)
 
 ### [JavaScript](#JavaScript)
 - [RegExp](JavaScript/RegExp.md)
